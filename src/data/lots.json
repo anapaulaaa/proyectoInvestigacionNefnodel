@@ -1,0 +1,8 @@
+[
+  { "id": 1, "brand": "BRENDALY", "destination": "Bodega", "boxes": 120, "day": "Lun", "time": "08:30" },
+  { "id": 2, "brand": "DEKA", "destination": "Sucursal", "boxes": 50, "day": "Lun", "time": "09:30" },
+  { "id": 3, "brand": "I-RUN", "destination": "Sucursal", "boxes": 120, "day": "Lun", "time": "11:00" },
+  { "id": 4, "brand": "LUIS-MAR", "destination": "Central", "boxes": 50, "day": "Mar", "time": "09:00" },
+  { "id": 5, "brand": "ARCO", "destination": "Sucursal", "boxes": 50, "day": "Mar", "time": "10:00" },
+  { "id": 6, "brand": "CLIBEE", "destination": "Central", "boxes": 120, "day": "Mar", "time": "11:00" }
+]

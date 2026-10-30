@@ -1,0 +1,5 @@
+{
+  "Sucursal": { "H": 4.656168, "items": [["I-RUN", 2351, 200], ["GAME", 845, 125], ["ARCO", 835, 100], ["DEKA", 835, 50], ["TREKER", 326, 40]] },
+  "Bodega": { "H": 4.152168, "items": [["LIMARCA", 2026, 300], ["INFOSA", 1175, 250], ["BRENDALY", 1055, 250], ["IMPDISPA", 465, 180], ["CORDIA", 431, 150]] },
+  "Central": { "H": 4.080168, "items": [["RIO VINYL", 4515, 300], ["CLIBEE", 534, 75], ["LUIS-MAR", 336, 50], ["LUCES DEL NORTE", 324, 150], ["MEEKONE", 208, 75]] }
+}
